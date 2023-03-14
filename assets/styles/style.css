@@ -405,7 +405,7 @@ body.dark-theme {
 
 .perfil__container{
   row-gap: 4rem;
-  padding-top: 2rem;
+  /* padding-top: 2rem; */
   justify-content: center;
   align-content: center;
   overflow: hidden;
